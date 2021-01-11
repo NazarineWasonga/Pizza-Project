@@ -306,8 +306,10 @@ figure img {
         margin-right: 20px;
         margin-left: 12px;
     }
+    
+
 }
-@media (max-width: 991px) {
+@media (max-: 991px) {
     .navbar:not(.top-nav-collapse) {
         background: rgb(122, 15, 15) !important;
     }
