@@ -246,6 +246,24 @@ figure img {
 .fab {
     margin: 60px 15px 0 15px;
 }
+ .mapouter {
+                position: relative;
+                text-align: right;
+                width: 1500px;
+                height: 500px;
+            }
+    
+            .gmap_canvas {
+                overflow: hidden;
+                background: none !important;
+                width: 1500px;
+                height: 600px;
+            }
+    
+            .gmap_iframe {
+                width: 1500px !important;
+                height: 500px !important;
+}
 .footer{
         background-color: black;
     }
