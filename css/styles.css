@@ -1,6 +1,6 @@
 /* @import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light&display=swap'); */
 /* @import url('https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Love+Ya+Like+A+Sister|Special+Elite&display=swap'); */
-@import url('https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Texturina:wght@100&display=swap');
 /*
 'Shadows Into Light', cursive
 */
@@ -25,7 +25,7 @@ body {
     color: rgb(201, 192, 143);
 }
 #piz- {
-    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Texturina', serif;
     font-size: 35px;
     font-weight: normal;
     color: goldenrod;
