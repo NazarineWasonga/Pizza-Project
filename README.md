@@ -36,4 +36,5 @@ Manual testing was undertaken for this application and satisfactorily passed. Th
 ## Author
 
 **NazarineWasonga** 
+To contribute to Pizza-project, reach me on [Email](nazarinewasonga48@gmail.com)
 
