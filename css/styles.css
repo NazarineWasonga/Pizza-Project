@@ -246,6 +246,10 @@ figure img {
 .fab {
     margin: 60px 15px 0 15px;
 }
+.footer{
+        background-color: black;
+    }
+
 /* Collapse nav start*/
 .top-nav-collapse {
     background-color: #209211 !important;
