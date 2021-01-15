@@ -180,7 +180,7 @@ h4 {
 }
 /*Background pic*/
 .landing {
-    background-image: url("/images/background.jpg");  
+    background-image: url("https://cdn.pixabay.com/photo/2016/02/19/11/30/pizza-1209748__340.jpg");  
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
