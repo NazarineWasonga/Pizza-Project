@@ -7,6 +7,9 @@ This is a responsive one page website for a Pizza restaurant. It is a front-end 
 3.	Information about the history and cooking tradition of the Pizza Restaurant
 4.	A contact form
 
+## Screenshot
+![Screenshot from 2021-04-09 13-12-39](https://user-images.githubusercontent.com/74545016/114166494-7844f180-9936-11eb-83b0-b69f9d309ceb.png)
+
 ## Demo
 
 A demo of this site is available [here](https://nazarinewasonga.github.io/Pizza-Project/).
