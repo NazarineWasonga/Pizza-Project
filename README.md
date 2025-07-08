@@ -1,44 +1,46 @@
 # 🍕 Pizza-Project
 
-A **fully responsive**, one-page website for a modern pizza restaurant. This project offers an engaging user experience with dynamic UI elements, an appetizing pizza menu, and an interactive contact section. Built using **HTML, CSS, and JavaScript**, it's ideal for showcasing front-end skills or serving as a static site for a local business.
+A **fully responsive**, one-page website for a modern pizza restaurant. Explore interactive menus, smooth navigation, and an embedded Google Map, all built with **HTML, CSS, and JavaScript**.
 
-🔗 **Live Demo**: [View on GitHub Pages](https://nazarinewasonga.github.io/Pizza-Project/)
-
-![Pizza Project Screenshot](https://user-images.githubusercontent.com/74545016/114166494-7844f180-9936-11eb-83b0-b69f9d309ceb.png)
+🔗 **Live Demo**: [https://nazarinewasonga.github.io/Pizza-Project/](https://nazarinewasonga.github.io/Pizza-Project/)
 
 ---
 
-## 🚀 Features
+## 🚀 Key Features
 
-- 🍕 **Interactive Pizza Menu**  
-  Menu includes images, topping details, prices, and an order modal.
+- **🍕 Pizza Menu**  
+  Displays pizza types with names, toppings, prices, and mouth-watering images. Each pizza links to a modal window where visitors can "order" (client-side form) with selectable options.
 
-- 🗺️ **Contact & Location Info**  
-  Display of address, phone number, operating hours, and an embedded Google Map.
+- **🗺️ Contact & Location**  
+  Includes phone number, restaurant address, operating hours, and an embedded Google Map powered by JavaScript.
 
-- 🏛️ **About Section**  
-  Learn about the restaurant's origins and pizza-making tradition.
+- **🏛️ About Us Section**  
+  Tells the story of the restaurant's history, cooking tradition, and passion for pizza.
 
-- 📬 **Contact Form**  
-  Clean, client-side form for submitting inquiries (note: not functional on static hosting).
+- **📬 Contact Form**  
+  A clean, fully styled contact form for customer inquiries (submissions aren't processed server-side).
 
-- 🎯 **Smooth Navigation**  
-  One-page scrolling with smooth transitions and active states.
+- **🎯 Smooth Navigation**  
+  Sticky nav bar with anchor links and smooth scroll behavior for easy one-page navigation.
+
+- **✨ Interactive UI Effects**  
+  Responsive design with hover animations, an image carousel, tooltips, collapsibles, and modals—all powered by vanilla JavaScript.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- **HTML5** – Semantic structure and accessibility
-- **CSS3** – Responsive layouts using Flexbox and media queries
-- **JavaScript (ES6)** – Dynamic interactions and event handling
+- **HTML5** – Semantic markup and structure  
+- **CSS3** – Flexbox layouts, media queries, and responsive styling  
+- **JavaScript (ES6)** – DOM manipulation, event handling, and Google Maps API integration  
 
 ---
 
 ## 📦 Getting Started
 
-### Run Locally
+### Clone & Run Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/nazarinewasonga/Pizza-Project.git
+```bash
+git clone https://github.com/nazarinewasonga/Pizza-Project.git
+cd Pizza-Project
+open index.html
